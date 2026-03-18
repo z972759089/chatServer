@@ -6,9 +6,6 @@
 
 需要配置nginx tcp负载均衡：
 命令vim nginx.conf 进入配置页面，添加如下配置
-events {
-    worker_connections  1024;
-}
 stream{
 
         upstream MyServer{
