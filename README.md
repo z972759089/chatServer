@@ -6,8 +6,8 @@
 
 需要配置nginx tcp负载均衡：
 命令vim nginx.conf 进入配置页面，添加如下配置
-stream{
 
+stream{
         upstream MyServer{
                 server 192.168.150.128:6100 weight=1 max_fails=3 fail_timeout=30s;
                 server 192.168.150.128:6002 weight=1 max_fails=3 fail_timeout=30s;
@@ -20,6 +20,7 @@ stream{
                 tcp_nodelay on;
         }
 }
+
 <img width="1161" height="795" alt="image" src="https://github.com/user-attachments/assets/e6279079-ee76-4804-bc31-9caa83b1a348" />
 
 
