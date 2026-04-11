@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/zzz/chat/chatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zzz/chat/chatServer/include -I/home/zzz/chat/chatServer/include/server -I/home/zzz/chat/chatServer/include/server/db -I/home/zzz/chat/chatServer/include/server/model -I/home/zzz/chat/chatServer/include/server/redis -I/home/zzz/chat/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/zzz/chat/chatServer/src/server/chatserver.cpp",
+  "file": "/home/zzz/chat/chatServer/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/zzz/chat/chatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zzz/chat/chatServer/include -I/home/zzz/chat/chatServer/include/server -I/home/zzz/chat/chatServer/include/server/db -I/home/zzz/chat/chatServer/include/server/model -I/home/zzz/chat/chatServer/include/server/redis -I/home/zzz/chat/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/zzz/chat/chatServer/src/server/chatservice.cpp",
+  "file": "/home/zzz/chat/chatServer/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/zzz/chat/chatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zzz/chat/chatServer/include -I/home/zzz/chat/chatServer/include/server -I/home/zzz/chat/chatServer/include/server/db -I/home/zzz/chat/chatServer/include/server/model -I/home/zzz/chat/chatServer/include/server/redis -I/home/zzz/chat/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/zzz/chat/chatServer/src/server/main.cpp",
+  "file": "/home/zzz/chat/chatServer/src/server/main.cpp"
+},
+{
+  "directory": "/home/zzz/chat/chatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zzz/chat/chatServer/include -I/home/zzz/chat/chatServer/include/server -I/home/zzz/chat/chatServer/include/server/db -I/home/zzz/chat/chatServer/include/server/model -I/home/zzz/chat/chatServer/include/server/redis -I/home/zzz/chat/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/zzz/chat/chatServer/src/server/db/db.cpp",
+  "file": "/home/zzz/chat/chatServer/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/zzz/chat/chatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zzz/chat/chatServer/include -I/home/zzz/chat/chatServer/include/server -I/home/zzz/chat/chatServer/include/server/db -I/home/zzz/chat/chatServer/include/server/model -I/home/zzz/chat/chatServer/include/server/redis -I/home/zzz/chat/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/zzz/chat/chatServer/src/server/model/friendmodel.cpp",
+  "file": "/home/zzz/chat/chatServer/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/zzz/chat/chatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zzz/chat/chatServer/include -I/home/zzz/chat/chatServer/include/server -I/home/zzz/chat/chatServer/include/server/db -I/home/zzz/chat/chatServer/include/server/model -I/home/zzz/chat/chatServer/include/server/redis -I/home/zzz/chat/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/zzz/chat/chatServer/src/server/model/groupmodel.cpp",
+  "file": "/home/zzz/chat/chatServer/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/zzz/chat/chatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zzz/chat/chatServer/include -I/home/zzz/chat/chatServer/include/server -I/home/zzz/chat/chatServer/include/server/db -I/home/zzz/chat/chatServer/include/server/model -I/home/zzz/chat/chatServer/include/server/redis -I/home/zzz/chat/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/zzz/chat/chatServer/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/zzz/chat/chatServer/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/zzz/chat/chatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zzz/chat/chatServer/include -I/home/zzz/chat/chatServer/include/server -I/home/zzz/chat/chatServer/include/server/db -I/home/zzz/chat/chatServer/include/server/model -I/home/zzz/chat/chatServer/include/server/redis -I/home/zzz/chat/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/zzz/chat/chatServer/src/server/model/usermodel.cpp",
+  "file": "/home/zzz/chat/chatServer/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/zzz/chat/chatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/zzz/chat/chatServer/include -I/home/zzz/chat/chatServer/include/server -I/home/zzz/chat/chatServer/include/server/db -I/home/zzz/chat/chatServer/include/server/model -I/home/zzz/chat/chatServer/include/server/redis -I/home/zzz/chat/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/zzz/chat/chatServer/src/server/redis/redis.cpp",
+  "file": "/home/zzz/chat/chatServer/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/zzz/chat/chatServer/build/src/client",
+  "command": "/usr/bin/g++   -I/home/zzz/chat/chatServer/include -I/home/zzz/chat/chatServer/include/server -I/home/zzz/chat/chatServer/include/server/db -I/home/zzz/chat/chatServer/include/server/model -I/home/zzz/chat/chatServer/include/server/redis -I/home/zzz/chat/chatServer/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/zzz/chat/chatServer/src/client/main.cpp",
+  "file": "/home/zzz/chat/chatServer/src/client/main.cpp"
+}
+]

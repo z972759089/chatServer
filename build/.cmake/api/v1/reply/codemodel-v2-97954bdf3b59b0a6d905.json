@@ -85,14 +85,14 @@
 				{
 					"directoryIndex" : 3,
 					"id" : "ChatClient::@8ca63c80a879d0067daa",
-					"jsonFile" : "target-ChatClient-Debug-b57e82288487ac183826.json",
+					"jsonFile" : "target-ChatClient-Debug-4c7277f13f19c68be7b7.json",
 					"name" : "ChatClient",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 2,
 					"id" : "ChatServer::@2804e40980a64c7d7ad1",
-					"jsonFile" : "target-ChatServer-Debug-5b0a2141a810b429aa23.json",
+					"jsonFile" : "target-ChatServer-Debug-815e9d1528f5875b86fb.json",
 					"name" : "ChatServer",
 					"projectIndex" : 0
 				}
@@ -102,8 +102,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/zzz/chat/build",
-		"source" : "/home/zzz/chat"
+		"build" : "/home/zzz/chat/chatServer/build",
+		"source" : "/home/zzz/chat/chatServer"
 	},
 	"version" : 
 	{

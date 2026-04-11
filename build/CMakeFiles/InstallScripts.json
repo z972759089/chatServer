@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/zzz/chat/chatServer/build/cmake_install.cmake",
+		"/home/zzz/chat/chatServer/build/src/cmake_install.cmake",
+		"/home/zzz/chat/chatServer/build/src/server/cmake_install.cmake",
+		"/home/zzz/chat/chatServer/build/src/client/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -144,8 +144,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/zzz/chat/build",
-		"source" : "/home/zzz/chat"
+		"build" : "/home/zzz/chat/chatServer/build",
+		"source" : "/home/zzz/chat/chatServer"
 	},
 	"version" : 
 	{

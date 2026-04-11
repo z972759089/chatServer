@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/zzz/chat/bin/ChatServer"
+			"path" : "/home/zzz/chat/chatServer/bin/ChatServer"
 		}
 	],
 	"backtrace" : 1,
@@ -83,27 +83,27 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/zzz/chat/include"
+					"path" : "/home/zzz/chat/chatServer/include"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "/home/zzz/chat/include/server"
+					"path" : "/home/zzz/chat/chatServer/include/server"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "/home/zzz/chat/include/server/db"
+					"path" : "/home/zzz/chat/chatServer/include/server/db"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/home/zzz/chat/include/server/model"
+					"path" : "/home/zzz/chat/chatServer/include/server/model"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/zzz/chat/include/server/redis"
+					"path" : "/home/zzz/chat/chatServer/include/server/redis"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "/home/zzz/chat/thirdparty"
+					"path" : "/home/zzz/chat/chatServer/thirdparty"
 				}
 			],
 			"language" : "CXX",
